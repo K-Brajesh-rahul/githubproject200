@@ -1,18 +1,9 @@
-// function Sum(props){
-//     const {a,b}=props
-//     return(
-//         <div>
-//             <h1>Rahul</h1>
-//         </div>
-//     )
-// }
-// export default Sum
-
-function Sum(){
+function Sum(props){
+    const {a,b}=props
     return(
         <div>
-            <h1>Sum</h1>
+            <h1>Rahul</h1>
         </div>
     )
 }
-export default Sum;
+export default Sum
