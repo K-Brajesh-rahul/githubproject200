@@ -2,6 +2,8 @@ function Charan(){
     return(
         <div>
             <h1>Charan is added</h1>
+            <h1>Charan at middle</h1>
+            <h1>Charan at bottom</h1>
         </div>
     )
 }
