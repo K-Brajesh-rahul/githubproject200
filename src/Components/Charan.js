@@ -1,7 +1,7 @@
 function Charan(){
     return(
         <div>
-            <h1>Charan</h1>
+            <h1>Charan is added</h1>
         </div>
     )
 }
